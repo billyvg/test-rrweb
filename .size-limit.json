@@ -1,0 +1,7 @@
+[
+  {
+    "path": "src/index.js",
+    "import": "{ main }",
+    "limit": "500 ms"
+  }
+]

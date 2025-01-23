@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "yarn webpack"
+  },
   "dependencies": {
     "@size-limit/preset-big-lib": "^11.1.6",
     "rrweb": "^2.0.0-alpha.4",
